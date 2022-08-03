@@ -14,13 +14,18 @@ body {
     padding-top: 65px;
   }
   
-  nav {
+  header {
+    display: flex;
+    justify-content: space-between;
+  }
+
+ /* nav {
     display: flex;
     justify-content: start;
     align-items: center;
   
     margin-bottom: 15px;
-  }
+  }*/
   
   ul {
     display: flex;
